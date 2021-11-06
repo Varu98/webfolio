@@ -14,23 +14,3 @@
   padding: 0;
   box-sizing: border-box;
 }
-
-.nav-bar {
-  background-color: var(--seal-brown);
-  width: 100vw;
-  height: 12vh;
-  padding-top: 1rem;
-}
-.nav-header {
-  /* align-items: center;
-  display: inline-flex; */
-}
-.logo-name {
-  font-family: "Roboto Mono", monospace;
-  color: #fff;
-}
-.nav-logo-img {
-  vertical-align: middle;
-  margin-left: 4rem;
-  height: 10vh;
-}
